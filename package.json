@@ -1,0 +1,17 @@
+{
+  "name": "exercise-2automated-workflow-with-git-hooks-and-ci-pipeline-enforcement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --check ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "prettier": "^3.6.2"
+  }
+}
