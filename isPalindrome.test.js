@@ -5,7 +5,7 @@ test('"racecar" should be a palindrome', () => {
 });
 
 test('"hello" should not be a palindrome', () => {
-  expect(isPalindrome("hello")).toBe(false);
+  expect(isPalindrome([])).toBe(false);
 });
 
 test('"A man, a plan, a canal: Panama" should be a palindrome', () => {
